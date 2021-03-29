@@ -4,5 +4,5 @@ The classic river crossing game that I rethought with my own ideas. I used an Ec
 ## Screenshots
 
 <p>
-  <img src="The_River/blob/main/The_River/src/screenshots/HomeScreen.jpg" width="100%" />
+  <img src="https://github.com/atikis87/The_River/blob/main/The_River/src/screenshots/HomeScreen.jpg" width="100%" />
 </p>
