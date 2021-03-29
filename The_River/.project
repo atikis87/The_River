@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>The_River</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images/Boat200X120.png</name>
+			<type>1</type>
+			<location>F:/JAVA2021/The_River/src/images/Boat200X120.png</location>
+		</link>
+		<link>
+			<name>src/images/Cabbage120X120.jpg</name>
+			<type>1</type>
+			<location>F:/JAVA2021/The_River/src/images/Cabbage120X120.jpg</location>
+		</link>
+		<link>
+			<name>src/images/Farmer_120X120.jpg</name>
+			<type>1</type>
+			<location>F:/JAVA2021/The_River/src/images/Farmer_120X120.jpg</location>
+		</link>
+		<link>
+			<name>src/images/Goat120X120.jpg</name>
+			<type>1</type>
+			<location>F:/JAVA2021/The_River/src/images/Goat120X120.jpg</location>
+		</link>
+		<link>
+			<name>src/images/Wolf120X120.jpg</name>
+			<type>1</type>
+			<location>F:/JAVA2021/The_River/src/images/Wolf120X120.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
