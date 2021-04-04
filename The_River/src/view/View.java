@@ -21,8 +21,8 @@ import controller.Controller.Position;
 public class View extends JPanel implements MouseListener
 {
 	
-	private static final long serialVersionUID = 1L;
-	private Controller Position_Engine; // Model
+    private static final long serialVersionUID = 1L;
+    private Controller Position_Engine; // Model
     private boolean newStart = false;
     
     String html = "<html><body width='%1s'><h1>WELCOME to <br> The River Game</h1>"
@@ -62,7 +62,7 @@ public class View extends JPanel implements MouseListener
 	// All Final Rectangle
 
     private final Rectangle NewStartButton = new Rectangle(270, 120, 250, 30);
-	private final Rectangle L_Farmer = new Rectangle(80, 215, 50, 50);
+    private final Rectangle L_Farmer = new Rectangle(80, 215, 50, 50);
 	
     private final Rectangle L_Wolf = new Rectangle(20, 215, 50, 50);
     private final Rectangle L_Goat = new Rectangle(20, 275, 50, 50);
@@ -87,11 +87,11 @@ public class View extends JPanel implements MouseListener
     Color myWhite = new Color(255, 255, 255); 
     
     // Images / Location of images
-	Image farmer_IMG = Toolkit.getDefaultToolkit().getImage("F:\\JAVA2021\\The_River\\src\\images\\Farmer_120X120.jpg");
-	Image wolf_IMG = Toolkit.getDefaultToolkit().getImage("F:\\JAVA2021\\The_River\\src\\images\\Wolf120X120.jpg");
-	Image goat_IMG = Toolkit.getDefaultToolkit().getImage("F:\\JAVA2021\\The_River\\src\\images\\Goat120X120.jpg");
-	Image cabbage_IMG = Toolkit.getDefaultToolkit().getImage("F:\\JAVA2021\\The_River\\src\\images\\Cabbage120X120.jpg");
-	Image boat_IMG = Toolkit.getDefaultToolkit().getImage("F:\\JAVA2021\\The_River\\src\\images\\Boat200X120.png");
+	Image farmer_IMG = Toolkit.getDefaultToolkit().getImage("src/images/Farmer_120X120.jpg");
+	Image wolf_IMG = Toolkit.getDefaultToolkit().getImage("src/images/Wolf120X120.jpg");
+	Image goat_IMG = Toolkit.getDefaultToolkit().getImage("src/images/Goat120X120.jpg");
+	Image cabbage_IMG = Toolkit.getDefaultToolkit().getImage("src/images/Cabbage120X120.jpg");
+	Image boat_IMG = Toolkit.getDefaultToolkit().getImage("src/images/Boat200X120.png");
     
     
     // MouseClick EVENT
